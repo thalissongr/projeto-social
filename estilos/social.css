@@ -22,5 +22,6 @@
             text-decoration: none;
         }
         a:hover{
+            transition: 1.5s;
             background-color: red;
         }
